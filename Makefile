@@ -7,3 +7,6 @@ hello: chapter1/hello.py
 
 test: chapter1/test_hello.py
 	pytest chapter1/test_hello.py
+
+lint: chapter1/hello.py
+	pylint chapter1/hello.py
