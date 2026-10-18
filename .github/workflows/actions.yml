@@ -11,7 +11,7 @@ jobs:
         python-version: 3.12.15
     - name: Install depentencies
       run: |
-        make Install
+        make install
     - name: Lint
       run: |
         make lint
