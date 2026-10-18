@@ -1,5 +1,5 @@
 """ A basic python script to test Makefile. 
-It has an add function that prints the results"""
+It has an add function that prints the results."""
 
 def add(a, b):
     """Adds two numbers together"""
